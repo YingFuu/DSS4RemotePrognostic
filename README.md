@@ -31,14 +31,14 @@ result/                                # Result
 ## Requirements
 
 ```{}
-python = 3.10.18
-pandas = 2.3.2
-numpy = 1.26.4
+python = 3.9.12
+pandas = 1.5.2
+numpy = 1.21.5
 matplotlib = 3.5.3
 scipy = 1.7.3
-scikit-learn = 1.5.1
+scikit-learn = 1.3.2
 seaborn = 0.11.2
-torch = 2.8.0
+torch = 1.12.0
 tqdm = 4.67.1
 
 ```
